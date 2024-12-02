@@ -1,2 +1,3 @@
 # Softskill_Campus-to-Corporate
-Resume build ..
+Resume build
+How to build to resume
